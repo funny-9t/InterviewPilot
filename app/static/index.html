@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>InterviewPilot MVP</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/antd@5.15.1/dist/reset.css" />
+
+  <script src="https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js"></script>
+
+  <!-- dayjs -->
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/weekday.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/localeData.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/weekOfYear.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/weekYear.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/advancedFormat.js"></script>
+
+  <script>
+    dayjs.extend(dayjs_plugin_weekday);
+    dayjs.extend(dayjs_plugin_localeData);
+    dayjs.extend(dayjs_plugin_weekOfYear);
+    dayjs.extend(dayjs_plugin_weekYear);
+    dayjs.extend(dayjs_plugin_advancedFormat);
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/antd@5.15.1/dist/antd.min.js"></script>
+
+  <!-- ✅ Babel（关键） -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <style>
+    body { margin: 24px; background: #f5f5f5; }
+    #root { background: #fff; padding: 24px; }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <!-- ✅ 注意 type -->
+  <script type="text/babel" src="/static/app.js"></script>
+</body>
+</html>
