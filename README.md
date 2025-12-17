@@ -69,7 +69,9 @@ InterviewPilot/
 ├── interviewpilot.db          # SQLite 数据库文件 (运行后自动生成)
 └── requirements.txt           # 依赖列表
 
+```
 ---
+
 ## 4. 核心功能模块实现
 
 ### 4.1 数据解析 (Parser)
