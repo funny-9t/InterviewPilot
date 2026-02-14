@@ -6,7 +6,7 @@
 
 ---
 面试信息录入：
-<img width="2503" height="1166" alt="屏幕截图 2025-12-17 194431" src="https://github.com/user-attachments/assets/6d9c7642-de23-4f37-a27f-a3e55c06c7a9" />
+<img width="2503" height="561" alt="屏幕截图 2025-12-17 194431" src="https://github.com/user-attachments/assets/5e298bdc-f487-46d8-ad46-d32aa63a97e3" />
 时间轴视图：
 <img width="2440" height="607" alt="屏幕截图 2025-12-17 201926" src="https://github.com/user-attachments/assets/b57a7c6b-abd0-4feb-89df-49b8f247b0ba" />
 日历视图：
