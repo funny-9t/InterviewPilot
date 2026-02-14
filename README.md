@@ -5,6 +5,15 @@
 **状态**: 已验证跑通  
 
 ---
+面试信息录入：
+<img width="2503" height="1166" alt="屏幕截图 2025-12-17 194431" src="https://github.com/user-attachments/assets/6d9c7642-de23-4f37-a27f-a3e55c06c7a9" />
+时间轴视图：
+<img width="2440" height="607" alt="屏幕截图 2025-12-17 201926" src="https://github.com/user-attachments/assets/b57a7c6b-abd0-4feb-89df-49b8f247b0ba" />
+日历视图：
+<img width="2255" height="474" alt="屏幕截图 2025-12-17 201322" src="https://github.com/user-attachments/assets/c76f39cc-f54a-4d8b-8744-faac9c947107" />
+模块功能：
+<img width="1108" height="541" alt="image" src="https://github.com/user-attachments/assets/a51bdd8e-9f65-468f-9a7c-e701b919bd8d" />
+<img width="1108" height="508" alt="image" src="https://github.com/user-attachments/assets/67fafe25-86e5-4488-a948-86cc847c2fad" />
 
 ## 1. 项目概述
 **InterviewPilot** 是一个面向求职者的全周期面试智能管理助手。它利用大语言模型（LLM）实现从非结构化面试信息录入、进度管理、个性化备战、复盘分析到 Offer 决策的全流程辅助。
